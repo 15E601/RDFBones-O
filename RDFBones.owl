@@ -149,6 +149,26 @@
         <vitro:publicDescriptionAnnot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entities this document is about.</vitro:publicDescriptionAnnot>
     </ObjectProperty>
     
+    <ObjectProperty rdf:about="http://w3id.org/rdfbones/core#hasCoherentSkeletalRegion">
+	<rdfs:label xml:lang="en-US">hasCoherentSkeletalRegion</rdfs:label>
+        <rdfs:domain rdf:resource="http://w3id.org/rdfbones/core#PrimarySkeletalInventoryDryBone"/>
+        <vitro:descriptionAnnot rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Connects skeletal inventories with coherent skeletal regions </vitro:descriptionAnnot>
+        <vitro:publicDescriptionAnnot rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Connects skeletal inventories with coherent skeletal regions</vitro:publicDescriptionAnnot>
+    </ObjectProperty>
+    
+    <ObjectProperty rdf:about="http://w3id.org/rdfbones/core#hasSkeletalRegion">
+        <rdfs:label xml:lang="en-US">hasSkeletalRegion</rdfs:label>
+        <rdfs:domain rdf:resource="http://w3id.org/rdfbones/core#PrimarySkeletalInventoryDryBone"/>
+        <vitro:descriptionAnnot rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Connects skeletal inventories with skeletal regions </vitro:descriptionAnnot>
+        <vitro:publicDescriptionAnnot rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Connects skeletal inventories with skeletal regions</vitro:publicDescriptionAnnot>
+    </ObjectProperty>
+
+    <ObjectProperty rdf:about="http://w3id.org/rdfbones/core#hasBoneOrgan">
+        <rdfs:label xml:lang="en-US">hasBoneOrgan</rdfs:label>
+        <rdfs:domain rdf:resource="http://w3id.org/rdfbones/core#PrimarySkeletalInventoryDryBone"/>
+        <vitro:descriptionAnnot rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Connects skeletal inventories with bone organs</vitro:descriptionAnnot>
+        <vitro:publicDescriptionAnnot rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Connects skeletal inventories with bone organs</vitro:publicDescriptionAnnot>
+    </ObjectProperty>
 
 
     <!-- http://purl.obolibrary.org/obo/OBI_0000293 -->

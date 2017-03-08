@@ -7179,21 +7179,6 @@ The frontal part of the right parietal bone.</obo:IAO_0000112>
     
 
 
-    <!-- http://w3id.org/rdfbones/core#Completeness2StatesEntireBonyPartOfParietalBone -->
-
-    <owl:Class rdf:about="http://w3id.org/rdfbones/core#Completeness2StatesEntireBonyPartOfParietalBone">
-        <rdfs:subClassOf rdf:resource="http://w3id.org/rdfbones/core#Completeness2States"/>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000136"/>
-                <owl:allValuesFrom rdf:resource="http://w3id.org/rdfbones/core#EntireBonyPartOfParietalBone"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:label xml:lang="en">Completeness of entire bony part of parietal bone in two states</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://w3id.org/rdfbones/core#Completeness2StatesEntireBonyPartOfPatella -->
 
     <owl:Class rdf:about="http://w3id.org/rdfbones/core#Completeness2StatesEntireBonyPartOfPatella">
@@ -16153,7 +16138,7 @@ A scalar measurement datum, specifying the portion of a bone that is present for
     <!-- http://w3id.org/rdfbones/core#EntireBonyPartOfLeftParietalBone -->
 
     <owl:Class rdf:about="http://w3id.org/rdfbones/core#EntireBonyPartOfLeftParietalBone">
-        <rdfs:subClassOf rdf:resource="http://w3id.org/rdfbones/core#EntireBonyPartOfBoneOrgan"/>
+        <rdfs:subClassOf rdf:resource="http://w3id.org/rdfbones/core#EntireBonyPartOfParietalBone"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/fma#regional_part_of"/>
@@ -18328,7 +18313,7 @@ A scalar measurement datum, specifying the portion of a bone that is present for
     <!-- http://w3id.org/rdfbones/core#EntireBonyPartOfRightParietalBone -->
 
     <owl:Class rdf:about="http://w3id.org/rdfbones/core#EntireBonyPartOfRightParietalBone">
-        <rdfs:subClassOf rdf:resource="http://w3id.org/rdfbones/core#EntireBonyPartOfBoneOrgan"/>
+        <rdfs:subClassOf rdf:resource="http://w3id.org/rdfbones/core#EntireBonyPartOfParietalBone"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/fma#regional_part_of"/>
@@ -25423,12 +25408,6 @@ A scalar measurement datum, specifying the portion of a bone that is present for
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000051"/>
                 <owl:someValuesFrom rdf:resource="http://w3id.org/rdfbones/core#Completeness2StatesEntireBonyPartOfPalatineBone"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000051"/>
-                <owl:someValuesFrom rdf:resource="http://w3id.org/rdfbones/core#Completeness2StatesEntireBonyPartOfParietalBone"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>

@@ -55,4 +55,31 @@
          <vitro:publicDescriptionAnnot rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Connects skeletal inventories with bone organs</vitro:publicDescriptionAnnot>
      </ObjectProperty>
 
+     <ObjectProperty rdf:about="http://w3id.org/rdfbones/core#has_systemic_part">
+         <rdfs:label xml:lang="en-US">has systemic part</rdfs:label>
+         <rdfs:domain rdf:resource="http://purl.obolibrary.org/obo/FMA_67135"/>
+         <vitro:descriptionAnnot rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Inverse of obo-fma:systemic_part_of </vitro:descriptionAnnot>
+         <vitro:publicDescriptionAnnot rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Inverse of obo-fma:systemic_part_of </vitro:publicDescriptionAnnot>
+     </ObjectProperty>
+
+     <ObjectProperty rdf:about="http://w3id.org/rdfbones/core#has_constitutional_part">
+         <rdfs:label xml:lang="en-US">has constitutional part</rdfs:label>
+         <rdfs:domain rdf:resource="http://purl.obolibrary.org/obo/FMA_67135"/>
+         <vitro:descriptionAnnot rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Inverse of obo-fma:constitutional_part_of </vitro:descriptionAnnot>
+         <vitro:publicDescriptionAnnot rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Inverse of obo-fma:constitutional_part_of </vitro:publicDescriptionAnnot>
+     </ObjectProperty>
+
+     <ObjectProperty rdf:about="http://w3id.org/rdfbones/core#has_regional_part">
+         <rdfs:label xml:lang="en-US">has regional part</rdfs:label>
+         <rdfs:domain rdf:resource="http://purl.obolibrary.org/obo/FMA_67135"/>
+         <vitro:descriptionAnnot rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Inverse of obo-fma:regional_part_of </vitro:descriptionAnnot>
+         <vitro:publicDescriptionAnnot rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Inverse of obo-fma:regional_part_of </vitro:publicDescriptionAnnot>
+     </ObjectProperty>
+
+     <ObjectProperty rdf:about="http://w3id.org/rdfbones/core#has_completeness_state">
+         <rdfs:label xml:lang="en-US">has completeness state</rdfs:label>
+         <rdfs:domain rdf:resource="http://purl.obolibrary.org/obo/FMA_67135"/>
+         <vitro:descriptionAnnot rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Inverse of obo:IAO_0000136 "is about" </vitro:descriptionAnnot>
+         <vitro:publicDescriptionAnnot rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> nverse of obo:IAO_0000136 "is about" </vitro:publicDescriptionAnnot>
+     </ObjectProperty>
 </rdf:RDF>

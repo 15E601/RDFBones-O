@@ -29,30 +29,33 @@ General Issues
 
 The human skeleton consists of a multitude of skeletal structures that
 provide different kinds of information about human physiology and life
-histories (@Cox2000; @Katzenberg2008). Both the evidence and the
+histories (:raw-latex:`\citealt{Cox2000}`;
+:raw-latex:`\citealt{Katzenberg2008}`). Both the evidence and the
 questions it is employed to address are heterogeneous and lead to a wide
 range of methodological approaches, all with their specific limitations
 and error margins. To obtain a thorough understanding, it is often
 necessary to combine diverse information. Researchers are constantly
 trying to apply new methods in order to complement life history
-information gained from skeletal remains (@Mays2018 [12]).
+information gained from skeletal remains
+(:raw-latex:`\citealt[12]{Mays2018}`).
 
 [fact:Documentation_of_all_processes_needed]As a consequence,
 osteological research data are complex and may result from discussion,
 i. e. conclusions based on diverse evidence and resulting from multiple
 lines of reasoning. This necessitates documentation of the entire
 research process from data collection through analysis to reporting
-(@Stodder2012 [340]). This is especially helpful for studies that
-combine results from several independent investigations.
+(:raw-latex:`\citealt[340]{Stodder2012}`). This is especially helpful
+for studies that combine results from several independent
+investigations.
 
 Specific challenges to documentation are
 \_[fact:Structured_cause_of_action_is_essential]anecdotal recording
 procedures, [fact:terminology-development-is-a-challenge]the development
 of clear descriptive terminology and the coding of visual illustrations
-used to report results (@Stodder2012 [340]). Anecdotal recording, here,
-refers to the occasional description of evidence when it occurs as
-opposed to systematic analysis of a body of material for a certain
-condition.
+used to report results (:raw-latex:`\citealt[340]{Stodder2012}`).
+Anecdotal recording, here, refers to the occasional description of
+evidence when it occurs as opposed to systematic analysis of a body of
+material for a certain condition.
 
 [fact:long-term_archiving_of_research_data_is_required]Thorough
 documentation is necessary not only to make research data transparent
@@ -60,19 +63,21 @@ but also to account for skeletal remains often being unique information
 carriers. They might not be available for re-evaluation due to reasons
 including restitution or reburial or material being damaged or lost
 during curation or research. As a consequence, research data are
-potentially irretrievable (@Stodder2012 [339]; @Turner2019) and dealing
-with data coded according to previous research strategies is often
-necessary. [fact:Tracking_of_material_deterioration_is_needed]On the
-other hand, repeated observations on the same material may trace its
-deterioration over time.
+potentially irretrievable (:raw-latex:`\citealt[339]{Stodder2012}`;
+:raw-latex:`\citealt{Turner2019}`) and dealing with data coded according
+to previous research strategies is often necessary.
+[fact:Tracking_of_material_deterioration_is_needed]On the other hand,
+repeated observations on the same material may trace its deterioration
+over time.
 
-Data standards might develop along scientific progress (see @Stodder2012
-[341--344], for dental caries as an example, @Grauer2008 [67], for the
-example of diagnostic criteria for degenerative joint disease and
-@Ortner2003a [111], for developments in disease classification),
-producing differently coded data. Re-use of data may include pooling of
-data coded according to different standards or different versions of
-standard.
+Data standards might develop along scientific progress (see
+:raw-latex:`\citealt[341--344]{Stodder2012}`, for dental caries as an
+example, :raw-latex:`\citealt[67]{Grauer2008}`, for the example of
+diagnostic criteria for degenerative joint disease and
+:raw-latex:`\citealt[111]{Ortner2003a}`, for developments in disease
+classification), producing differently coded data. Re-use of data may
+include pooling of data coded according to different standards or
+different versions of standard.
 
 Settings of Osteological Research
 ---------------------------------
@@ -83,77 +88,84 @@ such institutions as libraries and archives. These institutions can form
 specific work groups for third-party-funded research projects.
 Infrastructures can be developed in all of these settings, bound by
 their specific missions, management standards and available resources
-(@Giesen2013a [54]; @Roberts2010 [627]). Further framework conditions
-are legal and ethical regulations (@Ahrndt2013; @Prevedorou2019 [66];
-@Viebig2003).
+(:raw-latex:`\citealt[54]{Giesen2013a}`;
+:raw-latex:`\citealt[627]{Roberts2010}`). Further framework conditions
+are legal and ethical regulations (:raw-latex:`\citealt{Ahrndt2013}`;
+:raw-latex:`\citealt[66]{Prevedorou2019}`;
+:raw-latex:`\citealt{Viebig2003}`).
 
 Research on skeletal remains is mostly conducted by national and
 international researchers from universities and other institutions and
 undergraduate, Masters and PhD students collecting data for their theses
-(@Roberts2010 [627]).
+(:raw-latex:`\citealt[627]{Roberts2010}`).
 
 [fact:Osteology_is_under-funded]Osteological research is commonly
 restricted by various infrastructural restraints, e. g. the
 unwillingness of institutions to sustain curation of bioarchaeological
 material and lack of research funding, often creating a long time-gap
-between excavation and analysis (see @Prevedorou2019 [61], for an
-example of research conditions in Greece).
+between excavation and analysis (see
+:raw-latex:`\citealt[61]{Prevedorou2019}`, for an example of research
+conditions in Greece).
 
 [fact:Osteology_relies_on_contextual_data]Osteologists commonly
 investigate skeletal material that was recovered by others and,
 therefore, rely on contextual information provided by excavators or
-crime scene specialists (@Prevedorou2019 [62]).
+crime scene specialists (:raw-latex:`\citealt[62]{Prevedorou2019}`).
 
 Of special interest are osteological reference collections of
 individuals for whom demographic parameters and sometimes life history
 information are known. Such material is essential for the development
 and testing of osteological methods but also for research in historical
-anthropology (@Eliopoulos2007; @Nikita2020). Reference collections,
-typically, are often re-examined, used in training of researchers and
-have various research procedures applied to them. Documentation and
-digitisation of the material and research procedures across
-investigations is, therefore, required and a current requirement
-(@Nikita2020).
+anthropology (:raw-latex:`\citealt{Eliopoulos2007}`;
+:raw-latex:`\citealt{Nikita2020}`). Reference collections, typically,
+are often re-examined, used in training of researchers and have various
+research procedures applied to them. Documentation and digitisation of
+the material and research procedures across investigations is,
+therefore, required and a current requirement
+(:raw-latex:`\citealt{Nikita2020}`).
 
 Research Strategies
 -------------------
 
 Osteological research projects vary considerably in type and scope so
 that requirements for data standards and software applications are
-diverse (@Stodder2012 [347]). A universal software trying to accommodate
-all these requirements will always have to make extensive compromises
-between different research strategies and custom-made applications will
-always be better in serving the specific needs of a particular project.
+diverse (:raw-latex:`\citealt[347]{Stodder2012}`). A universal software
+trying to accommodate all these requirements will always have to make
+extensive compromises between different research strategies and
+custom-made applications will always be better in serving the specific
+needs of a particular project.
 
 Different research traditions have emerged in different geographical
-regions (@Robb2000 [476/477]).
+regions (:raw-latex:`\citealt[476/477]{Robb2000}`).
 
 Osteological research strikes a balance between different considerations
 like the research questions, required amount of detail in data
 collection and available resources. These decisions should be formulated
 in a research design at the onset of a project in order to avoid waste
-of resources and unnecessary repetition of observations (see @Robb2000
-[479/480] for a list of possible considerations).
+of resources and unnecessary repetition of observations (see
+:raw-latex:`\citealt[479/480]{Robb2000}` for a list of possible
+considerations).
 
 Research design describes how meaning can be ascribed to data patterns
 and this process is often more important than data collection and
-analysis (@Robb2000 [487]).
+analysis (:raw-latex:`\citealt[487]{Robb2000}`).
 
 Some osteological research projects might aspire to documenting the
 entire range of information provided by a series of skeletal individuals
 while others target specific conditions on particular skeletal elements
-(@Stodder2012 [344]). This implies different workflows during analysis.
-For example, holistic projects require an overview which analyses are
-concluded or remain to be conducted at any given time of the project
-duration.
+(:raw-latex:`\citealt[344]{Stodder2012}`). This implies different
+workflows during analysis. For example, holistic projects require an
+overview which analyses are concluded or remain to be conducted at any
+given time of the project duration.
 
 Data analysis is underdeveloped in osteological research and most
-methodological contributions do not get past data collection (@Robb2000
-[475]).
+methodological contributions do not get past data collection
+(:raw-latex:`\citealt[475]{Robb2000}`).
 
 Internationally standardised observation and measurement techniques are
 deployed differently in various research contexts while, actually, the
-intended analysis should determine data collection (@Robb2000 [477]).
+intended analysis should determine data collection
+(:raw-latex:`\citealt[477]{Robb2000}`).
 
 Stating individual cases in osteology commonly involves some
 argumentation. Therefore, careful and thorough description is essential
@@ -161,19 +173,20 @@ to record the chains of reasoning that lead individual researchers to
 establish a certain fact. For this reason, osteological research is in
 danger of getting lost in vast amounts of detailed information that is
 specific to individual skeletons while the relevant research questions
-that this evidence should help to answer become forgotten (@Ortner2009
-[327/328]). Osteological research needs to establish increasing degrees
-of abstraction and each abstraction layer requires good documentation on
-a more detailed level in order to be credible. As a consequence,
-osteological research data need to be rich in detail and powerful in
-abstraction.
+that this evidence should help to answer become forgotten
+(:raw-latex:`\citealt[327/328]{Ortner2009}`). Osteological research
+needs to establish increasing degrees of abstraction and each
+abstraction layer requires good documentation on a more detailed level
+in order to be credible. As a consequence, osteological research data
+need to be rich in detail and powerful in abstraction.
 
 In certain contexts, data collection can be tuned to variable degrees of
-specificity, e. g. in palaeopathology (@Ortner2003a [112]; @Ortner2009
-[333]). It is helpful if these degrees can be related to each other so
-that datasets can be merged on the level of most general statements. As
-a consequence, detailed interpretations should be embedded in a
-diagnostic hierarchy.
+specificity, e. g. in palaeopathology
+(:raw-latex:`\citealt[112]{Ortner2003a}`;
+:raw-latex:`\citealt[333]{Ortner2009}`). It is helpful if these degrees
+can be related to each other so that datasets can be merged on the level
+of most general statements. As a consequence, detailed interpretations
+should be embedded in a diagnostic hierarchy.
 
 Osteological analyses work on different scales, ranging from individual
 features (e. g. description of pathological cases), skeletal elements
@@ -181,80 +194,86 @@ features (e. g. description of pathological cases), skeletal elements
 assessment of health status) to skeletal populations (e. g. in
 epidemiology). Research commonly changes between these levels and
 research data, databases and software needs support work with all of
-them (@Robb2000 [478]; @Stodder2012 [346]).
+them (:raw-latex:`\citealt[478]{Robb2000}`;
+:raw-latex:`\citealt[346]{Stodder2012}`).
 
 Description and interpretation of skeletal conditions needs to be
 separated in order to allow for differential diagnosis, differing
 interpretations and progress in scientific interpretation. This
-separation, however, is often a challenge (@Grauer2008 [68/69]).
+separation, however, is often a challenge
+(:raw-latex:`\citealt[68/69]{Grauer2008}`).
 
 Osteological research involves a lot of preparation, e. g. in
 reconstructing fragmented material and laying out skeletons in
 anatomical order. As a consequence, osteologists tend to accomplish
-several analytical steps in one go. @Buikstra1994 [5, 108], for
-instance, suggest to conduct palaeopathological observations while
-compiling the skeletal inventory or at least use the inventory process
-to identify potential cases for later investigation. This approach,
-however, potentially compromises data integrity as the presence or
-absence of a certain pathological condition should be investigated with
-uniform determination on all skeletal elements. So procedural phases
-should be understood as separate steps in concluding an analysis and
-performed one after the other.
+several analytical steps in one go.
+:raw-latex:`\citet[5, 108]{Buikstra1994}`, for instance, suggest to
+conduct palaeopathological observations while compiling the skeletal
+inventory or at least use the inventory process to identify potential
+cases for later investigation. This approach, however, potentially
+compromises data integrity as the presence or absence of a certain
+pathological condition should be investigated with uniform determination
+on all skeletal elements. So procedural phases should be understood as
+separate steps in concluding an analysis and performed one after the
+other.
 
-@Grauer2008 [66/67, Table 4.1] observes two distinct environments of
-osteological data collection: hypothesis- or problem-driven research in
-academia on the one hand and thorough skeletal documentation in contract
-scenarios on the other. If research data are to become a sustainable
-resource, however, all data need to be prone to re-purposing during data
-recycling.
+:raw-latex:`\citet[66/67, Table 4.1]{Grauer2008}` observes two distinct
+environments of osteological data collection: hypothesis- or
+problem-driven research in academia on the one hand and thorough
+skeletal documentation in contract scenarios on the other. If research
+data are to become a sustainable resource, however, all data need to be
+prone to re-purposing during data recycling.
 
 The application of invasive methods in osteological research is
-increasing (@Roberts2010 [628]). Probing and the resulting damage to the
-material need to be well documented as they might affect subsequent
-investigations.
+increasing (:raw-latex:`\citealt[628]{Roberts2010}`). Probing and the
+resulting damage to the material need to be well documented as they
+might affect subsequent investigations.
 
 Research on osteological collections is a reiterative process where
 studies answer questions that were raised in former investigations
-(@Roberts2010 [629]). Information on which studies support or contradict
-either each other or hypotheses formulated during this interchange is of
-scientific interest.
+(:raw-latex:`\citealt[629]{Roberts2010}`). Information on which studies
+support or contradict either each other or hypotheses formulated during
+this interchange is of scientific interest.
 
 Quantification of and control for interobserver bias is a key issue in
-the reuse of data, especially in osteology (@Stodder2012 [347/348]).
+the reuse of data, especially in osteology
+(:raw-latex:`\citealt[347/348]{Stodder2012}`).
 
 As with any other archaeological material, the heterogenous degrees of
 preservation of prehistoric human remains render osteological
 information of incoherent quality. These uncertainties pose a specific
-problem for data standardisation (@Menk1979 [338]).
+problem for data standardisation (:raw-latex:`\citealt[338]{Menk1979}`).
 
 Data sharing and reuse should be considered in the early stages of an
-investigation and guide all subsequent steps of analysis (@Elton2020
-[1]).
+investigation and guide all subsequent steps of analysis
+(:raw-latex:`\citealt[1]{Elton2020}`).
 
 For open data to be useful, they must be intelligible without reference
-to the originator (@Elton2020 [1]).
+to the originator (:raw-latex:`\citealt[1]{Elton2020}`).
 
 Given the vast amounts of structured data that have already been
 compiled by biological anthropologists, an important task is to release
 them as proper resources to be shared and appropriated to new types of
-studies. This will consume time and money (@Elton2020 [1]).
+studies. This will consume time and money
+(:raw-latex:`\citealt[1]{Elton2020}`).
 
 Re-use of research data inevitably will unveil errors in the data
 themselves and omissions in their documentation. Corrections to these
 shortcomings should be collected by data maintainers as part of
-regulated data curation (@Elton2020 [1]).
+regulated data curation (:raw-latex:`\citealt[1]{Elton2020}`).
 
 Digital Tools
 -------------
 
 Most osteologists produce structured research data employing relational
 databases and, most commonly, spreadsheet applications
-(@Papageorgopoulou2013 [11]; @Robb2000 [482]).
+(:raw-latex:`\citealt[11]{Papageorgopoulou2013}`;
+:raw-latex:`\citealt[482]{Robb2000}`).
 
-@Menk1979 [335/336] shortly outlines the requirements of a data
-management system in the face of complex information. He stresses the
-importance to ‘protect users from this complexity’ and to prevent them
-from committing ambiguous data entries.
+:raw-latex:`\citet[335/336]{Menk1979}` shortly outlines the requirements
+of a data management system in the face of complex information. He
+stresses the importance to ‘protect users from this complexity’ and to
+prevent them from committing ambiguous data entries.
 
 Skeletal Inventory[sec:Skeletal-Inventory]
 ------------------------------------------
@@ -262,11 +281,13 @@ Skeletal Inventory[sec:Skeletal-Inventory]
 Skeletal data are typically fragmented and incomplete. Assessing
 material preservation is necessary for comparisons between
 differentially preserved assemblages by quantifying which observations
-are possible and which are not (@Buikstra1994 [5]; @Robb2000 [479]).
+are possible and which are not (:raw-latex:`\citealt[5]{Buikstra1994}`;
+:raw-latex:`\citealt[479]{Robb2000}`).
 
 Skeletal inventories is among the core problems in documenting
-osteological research (@Grauer2008 [62/63]; @Stodder2012 [340]). They
-record two aspects of the availability of material (@Cooper2013 [6]):
+osteological research (:raw-latex:`\citealt[62/63]{Grauer2008}`;
+:raw-latex:`\citealt[340]{Stodder2012}`). They record two aspects of the
+availability of material (:raw-latex:`\citealt[6]{Cooper2013}`):
 
 -  representation
 
@@ -278,18 +299,19 @@ record two aspects of the availability of material (@Cooper2013 [6]):
    , i. e. qualitative information about the condition of the material
 
 With assessments of material representation it is necessary to
-distinguish between ‘present and complete’, ‘partially present’, ‘not
-present’ (‘zero’) and ‘information not available’ (NULL, @Stodder2012
-[345]).
+distinguish between ’present and complete’, ’partially present’, ’not
+present’ (’zero’) and ’information not available’ (NULL,
+:raw-latex:`\citealt[345]{Stodder2012}`).
 
 Given limited material preservation or pathological deformation, it is
 not always possible to identify skeletal elements exactly or determine
 whether they come from the right or left side of the body. Such elements
-still need to be addressed in skeletal inventories (@Stodder2012 [345]).
+still need to be addressed in skeletal inventories
+(:raw-latex:`\citealt[345]{Stodder2012}`).
 
 Skeletal human remains are recovered from different deposition contexts,
-each posing different requirements for skeletal inventory (@Buikstra1994
-[5]):
+each posing different requirements for skeletal inventory
+(:raw-latex:`\citealt[5]{Buikstra1994}`):
 
 -  relatively complete skeletons, i. e. sets of skeletal remains for
    which association with a specific skeleton is certain or very likely
@@ -301,7 +323,7 @@ each posing different requirements for skeletal inventory (@Buikstra1994
 The purpose of skeletal inventories is to render the skeletal material
 accessible for investigation. This can involve provision of photographs
 and/or radiographs or scans for all available elements as suggested by
-@Buikstra1994 [6].
+:raw-latex:`\citet[6]{Buikstra1994}`.
 
 Skeletal inventory schemes may portion skeletal elements in various
 amounts of partitions in order to describe representation and
@@ -317,7 +339,7 @@ software was developed under the name ‘Bones’ that helps to compile and
 visualise skeletal inventories. The main purpose of this effort was to
 produce inventory charts to be attached to archival boxes in order to
 minimise handling of the skeletal remains (see inset by Jennifer Riddle
-and Vicki Cassman in @Morris2006 [159]).
+and Vicki Cassman in :raw-latex:`\citealt[159]{Morris2006}`).
 
 Material Selection for Specific Studies
 ---------------------------------------
@@ -326,41 +348,44 @@ At an early stage in skeletal analysis, there should be a moment of
 consideration which lines of inquiry are purposeful and feasible in a
 given situation. This might entail assessing the applicability of
 analytical techniques or excluding material from analysis based on poor
-preservation (@Grauer2008 [64]). Negative decisions should also be
-recorded together with the arguments that were evaluated. Exclusion of
-individuals from analysis, for example, has a significant effect on
-quantitative results and should, therefore, be properly documented.
+preservation (:raw-latex:`\citealt[64]{Grauer2008}`). Negative decisions
+should also be recorded together with the arguments that were evaluated.
+Exclusion of individuals from analysis, for example, has a significant
+effect on quantitative results and should, therefore, be properly
+documented.
 
 A basis for osteological investigations is to determine if the material
 to be investigated qualifies for observations, either in terms of
-completeness and preservation (cf. skeletal inventories,
+completeness and preservation (cf. skeletal inventories,
 section \ `[sec:Skeletal-Inventory] <#sec:Skeletal-Inventory>`__) or any
-other quality required for the respective type of analysis (@Stodder2012
-[345]).
+other quality required for the respective type of analysis
+(:raw-latex:`\citealt[345]{Stodder2012}`).
 
 Location of Observed Features
 -----------------------------
 
 Exact localisation of features observed on skeletal elements is
 essential, both for data analysis and for eventual re-evaluation of
-observations on the original material (@Grauer2008 [62]; @Stodder2012
-[346]).
+observations on the original material
+(:raw-latex:`\citealt[62]{Grauer2008}`;
+:raw-latex:`\citealt[346]{Stodder2012}`).
 
 Contextual Data
 ---------------
 
 Research in biological anthropology is often conducted in
 interdisciplinary settings. A pool of common information is a core
-requirement of such projects (@Menk1979 [331]).
+requirement of such projects (:raw-latex:`\citealt[331]{Menk1979}`).
 
 What contextual (i. e. non-osteological) information is necessary to
 answer a particular research question should be part of any osteological
-research design (@Robb2000 [479]).
+research design (:raw-latex:`\citealt[479]{Robb2000}`).
 
 Integration of osteological research with neighbouring disciplines is
-becoming increasingly important (see @Stodder2012 [349], for the
-necessity of bioarchaeologists to integrate their results with other
-archaeological data and @Grauer2008 [65], for examples of
+becoming increasingly important (see
+:raw-latex:`\citealt[349]{Stodder2012}`, for the necessity of
+bioarchaeologists to integrate their results with other archaeological
+data and :raw-latex:`\citealt[65]{Grauer2008}`, for examples of
 palaeopathological research being paired with other disciplines).
 
 Materials
@@ -372,12 +397,13 @@ Skeletal Material
 Associated Documents
 --------------------
 
-The term ‘associated documents’ refers to all records directly or
-indirectly related to skeletal material (@Giesen2013a [53]). This
-includes reports and other written records, drawings, photographs, x-ray
-images, publication drafts and published work. These materials can be
-incorporated in information systems in digitised form, genuinely digital
-material includes digital scans, 3D models and video.
+The term ’associated documents’ refers to all records directly or
+indirectly related to skeletal material
+(:raw-latex:`\citealt[53]{Giesen2013a}`). This includes reports and
+other written records, drawings, photographs, x-ray images, publication
+drafts and published work. These materials can be incorporated in
+information systems in digitised form, genuinely digital material
+includes digital scans, 3D models and video.
 
 Associated records might also refer to the keeping and curation of
 skeletal material, e. g. in the form of acquisition, accession and
@@ -400,16 +426,18 @@ The ‘Data Collection Procedures for Forensic Skeletal Material’ (DCP)
 describe methods for age-at-death assessment and osteometry. It
 constitutes the codebook for the Forensic Data Bank (FDB) at the
 University of Tennessee, Knoxville, which also serves as reference data
-for the software application ‘Fordisc’ (@Jantz2017; @Ousley2013).
+for the software application ‘Fordisc’
+(:raw-latex:`\citealt{Jantz2017}`; :raw-latex:`\citealt{Ousley2013}`).
 
 The first version appeared in 1986, the third edition in 1994. The
-current version (@Langley2016) constitutes a major revision and is,
-therefore, referred to as ‘DCP 2.0’ (@Langley2016 [7]).
+current version (:raw-latex:`\citealt{Langley2016}`) constitutes a major
+revision and is, therefore, referred to as ‘DCP 2.0’
+(:raw-latex:`\citealt[7]{Langley2016}`).
 
 The establishment of DCP 2.0 included a thorough assessment of all data
-items for reliability and reproducibility (@Langley2016 [7]).
-Inter-observer errors resulting from this investigation are included as
-an appendix.
+items for reliability and reproducibility
+(:raw-latex:`\citealt[7]{Langley2016}`). Inter-observer errors resulting
+from this investigation are included as an appendix.
 
 Existing Osteological Database Applications
 ===========================================
@@ -419,15 +447,16 @@ Osteoware
 
 Osteoware is a software for documenting osteological investigations. It
 implements the *Standards for Data Collection from Human Skeletal
-Remains* (@Buikstra1994) and was developed at the Repatriation Osteology
-Lab of the Smithsonian Institution (Washington, USA; @Wilczak2011 [1])
-since 1991. Osteoware is distributed as a desktop application for the
-Windows operating system but can be used as a client software to feed an
-online database. Queries on the data collected with Osteoware require a
-separate proprietary software (Advantage Data Architect by Sybase). This
-software is also needed to set up data subsets (e. g. representing
-material from the same site) and issue catalogue numbers within these
-subsets (referred to as ‘Catkeys’ in Osteoware, @Wilczak2011 [4]).
+Remains* (:raw-latex:`\citealt{Buikstra1994}`) and was developed at the
+Repatriation Osteology Lab of the Smithsonian Institution (Washington,
+USA; :raw-latex:`\citealt[1]{Wilczak2011}`) since 1991. Osteoware is
+distributed as a desktop application for the Windows operating system
+but can be used as a client software to feed an online database. Queries
+on the data collected with Osteoware require a separate proprietary
+software (Advantage Data Architect by Sybase). This software is also
+needed to set up data subsets (e. g. representing material from the same
+site) and issue catalogue numbers within these subsets (referred to as
+’Catkeys’ in Osteoware, :raw-latex:`\citealt[4]{Wilczak2011}`).
 
 .. figure:: ../gfx/Osteoware-Screenshot-MainScreen.png
    :alt: Main screen of the Osteoware software, version 2.4.037.
@@ -456,7 +485,7 @@ strategies: either the human remains subsumed under the Catkey are
 subdivided and associated to separate individual skeletons or the Catkey
 is understood to represent an assemblage of unrelated skeletal elements.
 The latter case, again, offers two distinct courses of procedure. A
-special ‘commingled inventory’ can be made, recording for each skeletal
+special ’commingled inventory’ can be made, recording for each skeletal
 elements how many instances of this type are contained in the assemblage
 represented by the Catkey. Alternatively, individual bones can be
 registered in the database and more detailed information can be
@@ -468,22 +497,24 @@ individuals, e. g. with multiple burials. New individuals can be issued
 on the main screen and are represented by capital letters in the INDIV
 column of the overview table there. So one Catkey can be represented by
 several entry IDs in Osteoware, each representing one individual
-skeleton (@Wilczak2011 [13]). All documentation routines, including the
-skeletal inventory, can be performed separately for each individual
-skeleton. It is not possible to define skeletons represented by material
-from several Catkeys. In order to add elements from a different Catkey
-to a skeleton, the respective material needs to be reassociated with a
-different Catkey (@Wilczak2011 [6]). Such reassociations are documented
-under a dedicated accession number at the Smithsonian Institution
-(@Wilczak2011 [13]).
+skeleton (:raw-latex:`\citealt[13]{Wilczak2011}`). All documentation
+routines, including the skeletal inventory, can be performed separately
+for each individual skeleton. It is not possible to define skeletons
+represented by material from several Catkeys. In order to add elements
+from a different Catkey to a skeleton, the respective material needs to
+be reassociated with a different Catkey
+(:raw-latex:`\citealt[6]{Wilczak2011}`). Such reassociations are
+documented under a dedicated accession number at the Smithsonian
+Institution (:raw-latex:`\citealt[13]{Wilczak2011}`).
 
 The RDFBones Standard
 =====================
 
 RDFBones is a digital standard for research data from osteological
-analyses in Biological Anthropology (@Engel2019). It is designed to deal
-with the high diversity of contents and methods in this field (cf. page 
-in ) and to pool information from disparate existing databases.
+analyses in Biological Anthropology (:raw-latex:`\citealt{Engel2019}`).
+It is designed to deal with the high diversity of contents and methods
+in this field (cf. page  in ) and to pool information from disparate
+existing databases.
 
 Ontologies on which RDFBones is Based
 -------------------------------------
@@ -509,32 +540,33 @@ despite similarities in methodology that would otherwise have allowed
 for a straightforward cross-disciplinary analysis. To ensure
 interoperability between different database systems, the methodology
 must be described in unambiguous terms across all participating
-disciplines (@Bandrowski2016). The OBI is capable of representing all
-phases of the experimental process. This includes all entities involved
-in preperation, execution, and interpretation of a process, such as
-specimens and instruments used, data collected, and analyses performed,
-and beyond that also representing roles and functions in investigations
-(@Brinkman2010). The OBO Foundry , of which OBI is a member since 2013,
-is a diverse and multinational group of life scientists. The group arose
-from the OBO project initiated in 2001, which was the initial attempt at
+disciplines (:raw-latex:`\citealt{Bandrowski2016}`). The OBI is capable
+of representing all phases of the experimental process. This includes
+all entities involved in preperation, execution, and interpretation of a
+process, such as specimens and instruments used, data collected, and
+analyses performed, and beyond that also representing roles and
+functions in investigations (:raw-latex:`\citealt{Brinkman2010}`). The
+OBO Foundry , of which OBI is a member since 2013, is a diverse and
+multinational group of life scientists. The group arose from the OBO
+project initiated in 2001, which was the initial attempt at
 standardizing data collection in certain life sciences. OBI itself has
 also evolved out of previous similar ontologies produced by scientists
-of the OBO project (@Smith2007). The group of scientists collaborating
-on OBI stemmed from 19 different biomedical communities from various
-nations when OBI was first added to the OBO Foundry, and the current
-group continues with regular meetings to discuss progress on the
-ontology  [1]_. Though these meetings are primarily for those deeply
-involved with the project, the community and forum discussions are
-openly accessible, and anyone wishing to join the initiative is
-encouraged to do so (@Smith2007). The OBO Foundry requires all
-member-ontologies to define a term only once among them, a practice
-called orthogonality [modeling biomedical experimental processes with
-obi], though this ideal has proven difficult to implement across all OBO
-Foundry ontologies [how orthogonal are the obo foundry ontologies]. As a
-member of the OBO Foundry, OBI also uses a common set of relations from
-the Relations Ontology, and uses the Basic Formal Ontology as its
-upper-level framework. This aids interoperability with other ontologies
-and supports automated reasoning
+of the OBO project (:raw-latex:`\citealt{Smith2007}`). The group of
+scientists collaborating on OBI stemmed from 19 different biomedical
+communities from various nations when OBI was first added to the OBO
+Foundry, and the current group continues with regular meetings to
+discuss progress on the ontology  [1]_. Though these meetings are
+primarily for those deeply involved with the project, the community and
+forum discussions are openly accessible, and anyone wishing to join the
+initiative is encouraged to do so (:raw-latex:`\citealt{Smith2007}`).
+The OBO Foundry requires all member-ontologies to define a term only
+once among them, a practice called orthogonality [modeling biomedical
+experimental processes with obi], though this ideal has proven difficult
+to implement across all OBO Foundry ontologies [how orthogonal are the
+obo foundry ontologies]. As a member of the OBO Foundry, OBI also uses a
+common set of relations from the Relations Ontology, and uses the Basic
+Formal Ontology as its upper-level framework. This aids interoperability
+with other ontologies and supports automated reasoning
 
 The subset implemented in RDFBones represents a slimmed version of the
 OBI, retaining the general outline of the OBO framework and central OBI
@@ -576,15 +608,15 @@ Dependent continuants are further classified into two groups, depending
 whether they depend on a specific entity or not. ‘Specifically dependent
 continuants’ can be ‘qualities’ of certain objects like material, colour
 etc. Another type of ‘specifically dependent continuants’ is ‘realizable
-entities’. These can describe ‘functions’ of objects, e. g. if a ruler
-is used as a measuring device or as a straight guide, or ‘roles’ that
+entities’. These can describe ’functions’ of objects, e. g. if a ruler
+is used as a measuring device or as a straight guide, or ’roles’ that
 individuals and objects can fulfill in the course of an investigation,
-e. g. as experimental subect or as analyst. ‘Generically dependent
-objects’ are mostly individuals of the subclasses of class ‘information
+e. g. as experimental subect or as analyst. ’Generically dependent
+objects’ are mostly individuals of the subclasses of class ’information
 content entity’. This comprises all kinds of information about other
-entities. Especially relevant for RDFBones are the classes ‘data item’
-and ‘data set’, the latter being a collection of instances of the
-former. Also, the concept of ‘centrally registered identifiers’ is used
+entities. Especially relevant for RDFBones are the classes ’data item’
+and ’data set’, the latter being a collection of instances of the
+former. Also, the concept of ’centrally registered identifiers’ is used
 in various contexts, e. g. to describe individual skeletons in a series,
 pseudonyms in a blinded study or archaeological features from which
 skeletal material derives.
@@ -607,8 +639,8 @@ OBI modelling of Investigations[subsec:OBI-Investigations]
 
 While the OBI models various structures related to scientific research,
 a central element is the process chain of investigations (). There are
-three major phases: ‘planning’, ‘study design execution’ and ‘drawing a
-conclusion based on data’. An output of the planning stage is a ‘study
+three major phases: ’planning’, ’study design execution’ and ’drawing a
+conclusion based on data’. An output of the planning stage is a ’study
 design’ which then is executed in the second stage where data are
 produced which are interpreted in the third. The OBI requires users to
 fill in elements that are represented by ‘anon’ placeholders in . First,
@@ -627,9 +659,9 @@ design execution’.
 
 ‘Study design execution’ consists of a sequence of processes that have
 input and output objects in a way that the output of the previous is the
-input to the following. The ‘specimen collection process’ selects human
+input to the following. The ’specimen collection process’ selects human
 remains from a collection of material for investigation. The selected
-material is then referred to as ‘specimens’. Specimens can be further
+material is then referred to as ’specimens’. Specimens can be further
 processed, e. g. if samples are taken or thin sections produced.
 Specimens are subjected to a number of assays, e. g. structured
 observations, measurements or analyses. The resulting data items are
@@ -668,7 +700,7 @@ OBI terms. How this construct is to be implemented is exemplified in the
 definition of class ‘centrally registered identifier symbol’:
 
    The sentence The article has Pubmed ID 12345. contains a CRID that
-   has two parts: one part is the CRID symbol, which is ‘12345’; the
+   has two parts: one part is the CRID symbol, which is ’12345’; the
    other part denotes the CRID registry, which is Pubmed.
 
 The OBI offers two subclasses of class ‘planned process’ for modelling
@@ -705,59 +737,61 @@ CIDOC CRM lends itself well for scientific investigation in
 archaeological sciences. Typically, archaeology has suffered from
 fragmented datasets and terminology systems. Effective cross-searching
 is often limited or impossible due to differing semantics between
-datasets, assuming they are made available at all (@Binding2010). Some
-ontological instruments have been employed over time, such as the Dublin
-Core Metadata Elements and the Simple Knowledge Organization System
-(SKOS). However, often times two closely related items may not find
-correllation via their metadata, even when adhering to Dublin Core
-standards. Doerr notes that metadata generally contains information
-pertaining to the object itself, and not to events or broader contexts
-to which the item may relate; two items cloesely tied to the same event
-may thus not be recognised as being related to each other, such as a
-copy of the Yalta Agreement and a photo taken of the allied leaders
-during the Yalta meeting (@Doerr2003). In his seminal work on CIDOC CRM,
+datasets, assuming they are made available at all
+(:raw-latex:`\citealt{Binding2010}`). Some ontological instruments have
+been employed over time, such as the Dublin Core Metadata Elements and
+the Simple Knowledge Organization System (SKOS). However, often times
+two closely related items may not find correllation via their metadata,
+even when adhering to Dublin Core standards. Doerr notes that metadata
+generally contains information pertaining to the object itself, and not
+to events or broader contexts to which the item may relate; two items
+cloesely tied to the same event may thus not be recognised as being
+related to each other, such as a copy of the Yalta Agreement and a photo
+taken of the allied leaders during the Yalta meeting
+(:raw-latex:`\citealt{Doerr2003}`). In his seminal work on CIDOC CRM,
 Doerr goes into great detail over the problems CIDOC CRM is intended to
 alleviate. Cherny advocates the use of CIDOC CRM over other tools like
 Dublin Core and SKOS, as these alternatives are not intended to
-represent the full richness of cultural heritage data (@Cherny2015).
-CIDOC CRM supports additional semantic meaning beyond what was already
-recorded with the original data, the lack of which would result in the
-previously described problem of limited relatability of items. As Cherny
-also mentions, CIDOC CRM has already found widespread global appeal,
-meaning that data integration is easier for anyone that also uses this
-standard. An extended example of this is noted by Dijkshoorn in the form
-of the Europeana Data Model, which is used to deliver cultural heritage
-data to the data aggregator Europeana, to which CIDOC CRM (among other
-alternatives) can be mapped (@Dijkshoorn2018). The Europeana Data Model
-is nowadays used by other aggregators,as well as institutions publishing
+represent the full richness of cultural heritage data
+(:raw-latex:`\citealt{Cherny2015}`). CIDOC CRM supports additional
+semantic meaning beyond what was already recorded with the original
+data, the lack of which would result in the previously described problem
+of limited relatability of items. As Cherny also mentions, CIDOC CRM has
+already found widespread global appeal, meaning that data integration is
+easier for anyone that also uses this standard. An extended example of
+this is noted by Dijkshoorn in the form of the Europeana Data Model,
+which is used to deliver cultural heritage data to the data aggregator
+Europeana, to which CIDOC CRM (among other alternatives) can be mapped
+(:raw-latex:`\citealt{Dijkshoorn2018}`). The Europeana Data Model is
+nowadays used by other aggregators,as well as institutions publishing
 their own data.
 
 Extensions of CIDOC CRM
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 Hiebel proposes CRMgeo, an extension of CIDOC CRM that provides a global
-schema for documenting spatiotemporal properties (@Hiebel2017). It is
-designed to comply to the definitions and standards defined by the Open
-Geospatial Consortium in GeoSPARQL. This allows CRMgeo to integrate
-CIDOC CRM and its data with the spatiotemporal analyses offered by
-geoinformation systems.
+schema for documenting spatiotemporal properties
+(:raw-latex:`\citealt{Hiebel2017}`). It is designed to comply to the
+definitions and standards defined by the Open Geospatial Consortium in
+GeoSPARQL. This allows CRMgeo to integrate CIDOC CRM and its data with
+the spatiotemporal analyses offered by geoinformation systems.
 
 Niccolucci proposes CRMas, an extension of CIDOC CRM using the already
 existing extensions of CRMdig and CRMsci, which are also designed to
-improve scientific documentation capabilities (@Niccolucci2017). CRMas
-is intended as a documentation tool for archaeological science that can
-record the wide range of methods used in archaeological investigation.
-The focus is on the part of the investigation process that occurs while
-producing the results that can be used to perform an archaeological
-interpretation, i.e. the observation or analysis of an archaeological
-find. Niccolucci identifies the observation and analysis components as
-potential black boxes with a variety of factors that must be documented.
-He further defines an observation as an experiment that produces only
-analogic information, and an analysis as an experiment that directly
-produces numeric results, typically through the use of processing
-machinery. Both cases require adequate documentation, as successful
-re-use of the data by other scientists in future studies can not be
-guaranteed.
+improve scientific documentation capabilities
+(:raw-latex:`\citealt{Niccolucci2017}`). CRMas is intended as a
+documentation tool for archaeological science that can record the wide
+range of methods used in archaeological investigation. The focus is on
+the part of the investigation process that occurs while producing the
+results that can be used to perform an archaeological interpretation,
+i.e. the observation or analysis of an archaeological find. Niccolucci
+identifies the observation and analysis components as potential black
+boxes with a variety of factors that must be documented. He further
+defines an observation as an experiment that produces only analogic
+information, and an analysis as an experiment that directly produces
+numeric results, typically through the use of processing machinery. Both
+cases require adequate documentation, as successful re-use of the data
+by other scientists in future studies can not be guaranteed.
 
 CIDOC CRM within RDFBones
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -809,7 +843,7 @@ in them.
 
 Unlike classes in OBO ontologies, that are bound to have not more than
 one direct superclass, classes in the CIDOC CRM canCIDOC CRM have
-several of them (cf. ). As the OBI subset functions as the conceptual
+several of them (cf. ). As the OBI subset functions as the conceptual
 backbone of RDFBones, integration of the CIDOC CRM subset involves
 placing classes within the basic OBI structure while maintaining as much
 of the modelling principles intended by the CIDOC CRM.
@@ -946,7 +980,7 @@ contexts. The FMA is a purpose-built ontology for use in other
 ontologies that require a well-structured model of anatomical concepts.
 Though vast and in-depth simultaneously, it is also intended to be
 generalisable and able to be filtered to suit a specific need
-(@Rosse2003), as was done for AnthroGraph.
+(:raw-latex:`\citealt{Rosse2003}`), as was done for AnthroGraph.
 
 The FMA only refers to canonical anatomical concepts and does not by
 itself harbour instantiated anatomy. This means that pathologies and
@@ -964,11 +998,11 @@ expression of the organism’s own structural genes”. This
 ontogenetics-based system is the first principle upon which the
 representation in the FMA is built upon. The second principle is the
 organisation into units. Units here refers to a structural element of
-the whole, such as the classes ‘Organ’ or ‘Cell’, with the entity
-representing the ‘whole’ being the class ‘Body’. This concept expands to
-aggregates of these units, such as the classes ‘Organ system’ and
-‘Anatomical cluster’, or to parts of units, such as the classes ‘Body
-part’ and ‘Organ part’. The FMA also accommodates descriptors of
+the whole, such as the classes ’Organ’ or ’Cell’, with the entity
+representing the ’whole’ being the class ’Body’. This concept expands to
+aggregates of these units, such as the classes ’Organ system’ and
+’Anatomical cluster’, or to parts of units, such as the classes ’Body
+part’ and ’Organ part’. The FMA also accommodates descriptors of
 physical entities, like cavities and surfaces of organs, and more
 abstract concepts such as terms, coordinates, and relationships between
 entities. As relationships are a basic and important aspect of
@@ -980,16 +1014,16 @@ Generally, the most reasonable way to represent the body, human or
 otherwise, is in part-whole relationships. These relationships however
 differ quite often in their organisation between disciplines and
 applications such that they end up conflicting each other; there are
-many ways to define e.g. the concept of ‘upper arm’ - is the head of the
+many ways to define e.g. the concept of ‘upper arm’ - is the head of the
 femur part of the arm, or part of the shoulder joint? Taking every
 possible definition into consideration may reduce an anatomical ontology
 to a sort of dictionary void of any relational information. The FMA
 keeps the logical approach of part-whole relationships while attempting
 to “accommodate various views and conventions while remaining consistent
-and logical” (@MejinoJr2003).
+and logical” (:raw-latex:`\citealt{MejinoJr2003}`).
 
 A set of rules defines how part-whole relationships are applied in the
-FMA. The rule of ‘Dimensionality Consistency’ calls for distinction
+FMA. The rule of ’Dimensionality Consistency’ calls for distinction
 between boundary and partonomy relationships. Part-whole axioms can only
 be applied for entities that share the same dimensionality:
 
@@ -1001,26 +1035,26 @@ ventricle’} is not, as the subject is 3D and the object is 2D. This
 relationship would instead have to be presented with the axiom:
 
 {‘Right ventricle’ -bounded by- ‘Surface of right ventricle’}. The
-predicate ‘bounded by’ allows for a difference of one dimension.
+predicate ’bounded by’ allows for a difference of one dimension.
 
-The rule of ‘Containment/Part Distinction’ likewise delimits ‘contains’
-and ‘contained-in’ relationships. These two rules suffice within classes
-such as ‘Conceptual anatomical entity’ and ‘Body substance’, but in the
-class ‘Anatomical structure’ more specifications are needed. These
+The rule of ’Containment/Part Distinction’ likewise delimits ’contains’
+and ’contained-in’ relationships. These two rules suffice within classes
+such as ’Conceptual anatomical entity’ and ’Body substance’, but in the
+class ’Anatomical structure’ more specifications are needed. These
 specifications are set by the class itself so that they may be inherited
-by the according subclasses (@MejinoJr2003).
+by the according subclasses (:raw-latex:`\citealt{MejinoJr2003}`).
 
 Further important attributes for partonomy are the attributes
-‘constitutional part’ and ‘regional part’. ‘Constitutional part’
+’constitutional part’ and ’regional part’. ’Constitutional part’
 pertains to what is best described as larger, yet simpler-than-the-whole
 structural compounds of an organ/anatomical structure. Partitions are
-based on composition, not spatial factors. ‘Regional part’ pertains to
+based on composition, not spatial factors. ’Regional part’ pertains to
 spatial subdivisions. These subdivisions partition constitutional parts
 which are in shared locations into sets. Subdivision of the body into
 functional sysems is a common method in anatomy and clinical medicine.
-However, the FMA defines the class ‘Organ system’ in a structural
+However, the FMA defines the class ’Organ system’ in a structural
 context and constrains the parts of such a system to organs and their
-primary regional parts. ‘Systemic part’ relations are used as a
+primary regional parts. ’Systemic part’ relations are used as a
 secondary partition which can be displayed transitively in a partonomy
 hierarchy, as can constitutional and regional parts.
 
@@ -1030,7 +1064,7 @@ research data can make recourse to the rich semantic information of the
 FMA in order to analyse skeletal elements within their anatomical
 context.
 
-.. figure:: ../gfx/RDFBones-FMA_Subset-CentralClasses-Material%20Entities.pdf
+.. figure:: ../gfx/RDFBones-FMA_Subset-CentralClasses-Material Entities.pdf
    :alt: [fig:FMA_subset_material_entities]Classes in the RDFBones
    subset of the FMA representing material entities compared to classes
    in the OBI subset. Black lines indicate similar classes that are not
@@ -1048,7 +1082,7 @@ context.
 the FMA representing immaterial entities compared to classes in the OBI
 subset. Black lines indicate similar classes that are not necessarily
 exchangeable but whose definitions overlap considerably. Classes that do
-not appear in RDFBones are greyed out.|\ ’
+not appear in RDFBones are greyed out.|\ ‘
 
 The subset implemented in RDFBones contains material () and immaterial
 () anatomical entities. Material entities represent skeletons,
@@ -1062,13 +1096,13 @@ Immaterial entities represent bone surfaces and cavities as well as
 tooth cavities. The FMA class ‘immaterial anatomical entity’ (fma:67112)
 does not have a direct counterpart in the OBI. For integration with
 RDFBones, its subclasses ‘anatomical boundary entity’ (fma:50705) and
-‘anatomical space’ (fma:5897) are modelled as direct subclasses of the
+’anatomical space’ (fma:5897) are modelled as direct subclasses of the
 OBI class ‘immaterial entity’ (bfo:0000141). The FMA class ‘immaterial
 anatomical entity’ is not adopted by RDFBones as the RDFBones class
 ‘anatomical region of interest’ (rdfbones:AnatomicalRegionOfInterest)
-would be a subclass of ‘immaterial anatomical entity’ in the FMA but is
-modelled as a subclass of the OBI class ‘site’ (bfo:0000029) in
-RDFBones. ‘Site’, however, does also subsume non-anatomical (e. g.
+would be a subclass of ’immaterial anatomical entity’ in the FMA but is
+modelled as a subclass of the OBI class ’site’ (bfo:0000029) in
+RDFBones. ’Site’, however, does also subsume non-anatomical (e. g.
 geographic) sites.
 
 .. figure:: ../gfx/RDFBones-FMA_Subset-Properties.pdf
@@ -1101,7 +1135,7 @@ specifically for certain investigations as it is the case in most areas
 of biological research. Instead, human remains from pre(historic) or
 forensic sites and clinical backgrounds are commonly archived and
 provided for several investigations. Bodies of material that are kept in
-one place by the same institution are referred to as ‘collections’ in
+one place by the same institution are referred to as ’collections’ in
 RDFBones. Collections might represent material from a common source,
 including historical collections that are curated as a closed entity.
 Therefore, an institution may care for several collections. Examples for
@@ -1110,7 +1144,7 @@ a state that are collected in a state archive, an anatomical collection
 sustained by a university institute or a private collectin left behind
 by a 19th-century scholar. Collections might include objects other than
 human remains, e. g. related archaeological finds or representations
-like casts or pieces of documentation. Note that ‘collection’, in this
+like casts or pieces of documentation. Note that ’collection’, in this
 context, always refers to a body of curated objects and never to the
 institution or organisation by which it is kept.
 
@@ -1135,22 +1169,22 @@ RDFBones uses the CIDOC CRM () to model mechanisms of collection
 management.
 
 Collections are represented by the class ‘collection’ (cidoc:E78) and
-consist of (cidoc:P46, ‘is composed of’) instances of class ‘material
+consist of (cidoc:P46, ’is composed of’) instances of class ’material
 entity’ (BFO:0000040) or its subclasses, especially the following:
 
--  ‘material anatomical entity’ (uberon:0000002) covering human remains
+-  ’material anatomical entity’ (uberon:0000002) covering human remains
 
--  ‘biological object’ (cidoc:E20) covering other organic specimen
+-  ’biological object’ (cidoc:E20) covering other organic specimen
    relating to nature or natural history
 
--  ‘man-made object’ (cidoc:E22) covering artefacts
+-  ’man-made object’ (cidoc:E22) covering artefacts
 
-The latter two are subclasses of ‘object’ (bfo:0000030).
+The latter two are subclasses of ’object’ (bfo:0000030).
 
 Class ‘collection’ (cidoc:E78) is a subclass of class ‘physical thing’
 (cidoc:E18) in the CIDOC CRM while the OBI () provides the example of
-class ‘collection of specimens’ (obi:0002076) which is a subclass of
-class ‘material entity’ (bfo:0000040). So both the CIDOC CRM and the OBI
+class ’collection of specimens’ (obi:0002076) which is a subclass of
+class ’material entity’ (bfo:0000040). So both the CIDOC CRM and the OBI
 interpret collections of physical entities as physical entities
 themselves which are composed of the objects they contain and not as
 immaterial entities denoting a series of phyiscal entities. This
@@ -1168,7 +1202,7 @@ Registering Skeletal Material For a Collection
 The Anatomical Model
 ~~~~~~~~~~~~~~~~~~~~
 
-All human anatomy is modelled by the FMA (cf. ). RDFBones adds some
+All human anatomy is modelled by the FMA (cf. ). RDFBones adds some
 elements to make anatomical elements accessible for osteological methods
 used in biological anthropology.
 
@@ -1178,7 +1212,7 @@ Anatomical Regions of Interest
 Different osteological methods require different parts of bones or
 specific features on them to be available for investigation. Also,
 skeletal inventories might record representation and preservation for
-arbitrary sections of skeletal elements (cf. p. ). These sections are
+arbitrary sections of skeletal elements (cf. p. ). These sections are
 fiat parts demarcated by fiat boundaries, i. e. they do not necessarily
 follow the anatomical architecture of skeletal elements but are drawn
 deliberately by researchers to satisfy specific methodological
@@ -1281,10 +1315,5 @@ subproperties is set to 1.
    As ‘regional part of’ (fma:regional_part_of) is a transitive
    property, OWL modelling prohibits restrictions on cardinality.
 
-.. |[fig:FMA_subset_immaterial_entities]Classes in the RDFBones subset of the FMA representing immaterial entities compared to classes in the OBI subset. Black lines indicate similar classes that are not necessarily exchangeable but whose definitions overlap considerably. Classes that do not appear in RDFBones are greyed out.| image:: ../gfx/RDFBones-FMA_Subset-CentralClasses-Immaterial%20Entities.pdf
+.. |[fig:FMA_subset_immaterial_entities]Classes in the RDFBones subset of the FMA representing immaterial entities compared to classes in the OBI subset. Black lines indicate similar classes that are not necessarily exchangeable but whose definitions overlap considerably. Classes that do not appear in RDFBones are greyed out.| image:: ../gfx/RDFBones-FMA_Subset-CentralClasses-Immaterial Entities.pdf
    :width: 100.0%
-
- /guides/tools
- /guides/platform
- /guides/commercial
-

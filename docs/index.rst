@@ -458,9 +458,10 @@ needed to set up data subsets (e. g. representing material from the same
 site) and issue catalogue numbers within these subsets (referred to as
 ’Catkeys’ in Osteoware, :raw-latex:`\citealt[4]{Wilczak2011}`).
 
-.. figure:: ../gfx/Osteoware-Screenshot-MainScreen.png
+.. figure:: ../docs/gfx/Osteoware-Screenshot-MainScreen.png
    :alt: Main screen of the Osteoware software, version 2.4.037.
    :width: 100.0%
+   :target: ../docs/gfx/Osteoware-Screenshot-MainScreen.png
 
    Main screen of the Osteoware software, version 2.4.037.
 
@@ -576,7 +577,7 @@ provides a suitable framework for osteological work. This provides the
 backbone onto which all other classes and properties in RDFBones are
 modelled ().
 
-.. figure:: ../gfx/RDFBones-OBI_Subset-CentralClasses.pdf
+.. figure:: ../docs/gfx/RDFBones-OBI_Subset-CentralClasses.pdf
    :alt: [fig:OBI_subset]Central classes of the OBI subset and general
    outline of semantic logics.
    :width: 100.0%
@@ -624,7 +625,7 @@ skeletal material derives.
 OBI modelling of Investigations[subsec:OBI-Investigations]
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../gfx/OBI-Investigations.pdf
+.. figure:: ../docs/gfx/OBI-Investigations.pdf
    :alt: [fig:OBI_investigations]Scientific investigations as modelled
    by the OBI. Simplified version of a diagram provided by the OBI
    workgroup
@@ -678,7 +679,7 @@ illustrated in ).
 OBI Modelling of Unique Identifiers[subsec:OBI-CRIDs]
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../gfx/OBI-CRIDs.pdf
+.. figure:: ../docs/gfx/OBI-CRIDs.pdf
    :alt: Unique identifiers as modelled by the OBI.
    :width: 100.0%
 
@@ -803,7 +804,7 @@ London’s ResearchSpace [5]_ and Geovistory [6]_. RDFBones’ elements
 leaned from the CIDOC CRM provide a basis for establishing compatibility
 with such systems.
 
-.. figure:: ../gfx/RDFBones-CIDOC-CRM_Subset.pdf
+.. figure:: ../docs/gfx/RDFBones-CIDOC-CRM_Subset.pdf
    :alt: [fig:CIDOC-CRM_subset]Elements in the RDFBones subset of the
    CIDOC CRM.
    :width: 100.0%
@@ -827,7 +828,7 @@ history of a collection’s curation as a series of of events (curation
 activities) that can be filtered by the actors and collections involved
 in them.
 
-.. figure:: ../gfx/RDFBones-CIDOC-CRM_Subset-Classes-Continuants.pdf
+.. figure:: ../docs/gfx/RDFBones-CIDOC-CRM_Subset-Classes-Continuants.pdf
    :alt: [fig:CIDOC-CRM_subset_continuants]Classes representing
    continuants in the RDFBones subset of the CIDOC CRM compared to
    classes in the OBI subset. Black lines indicate similar classes that
@@ -929,7 +930,7 @@ against the logics of the OBI and, secondly, it would prevent actors
 from taking on roles. As a consequence, all actors need to be modelled
 as independent continuants.
 
-.. figure:: ../gfx/RDFBones-CIDOC-CRM_Subset-Classes-Occurrents.pdf
+.. figure:: ../docs/gfx/RDFBones-CIDOC-CRM_Subset-Classes-Occurrents.pdf
    :alt: [fig:CIDOC-CRM_subset_occurrents]Classes representing
    occurrents in the RDFBones subset of the CIDOC CRM compared to
    classes in the OBI subset. Black lines indicate similar classes that
@@ -959,7 +960,7 @@ A processual entity that realizes a plan which is the concretization of a plan s
 As a consequence, ‘curation activity’ (class cidoc:E87) can be modelled
 as a subclass of ‘planned process’ (obi:0000011).
 
-.. figure:: ../gfx/RDFBones-CIDOC-CRM_Subset-ClassIntegration.pdf
+.. figure:: ../docs/gfx/RDFBones-CIDOC-CRM_Subset-ClassIntegration.pdf
    :alt: [fig:CIDOC-CRM_subset_integration]Integration of the RDFBones
    subset of the CIDOC CRM with the OBI subset.
    :width: 100.0%
@@ -1064,7 +1065,7 @@ research data can make recourse to the rich semantic information of the
 FMA in order to analyse skeletal elements within their anatomical
 context.
 
-.. figure:: ../gfx/RDFBones-FMA_Subset-CentralClasses-Material Entities.pdf
+.. figure:: ../docs/gfx/RDFBones-FMA_Subset-CentralClasses-Material Entities.pdf
    :alt: [fig:FMA_subset_material_entities]Classes in the RDFBones
    subset of the FMA representing material entities compared to classes
    in the OBI subset. Black lines indicate similar classes that are not
@@ -1105,7 +1106,7 @@ modelled as a subclass of the OBI class ’site’ (bfo:0000029) in
 RDFBones. ’Site’, however, does also subsume non-anatomical (e. g.
 geographic) sites.
 
-.. figure:: ../gfx/RDFBones-FMA_Subset-Properties.pdf
+.. figure:: ../docs/gfx/RDFBones-FMA_Subset-Properties.pdf
    :alt: [fig:FMA_subset_properties]Properties in the RDFBones subset of
    the FMA compared to properties in the OBI subset. Black lines
    indicate equivalent properties. Properties that do not appear in
@@ -1159,7 +1160,7 @@ anthropological research are, therefore, within the scope of RDFBones.
 Structure of the Collection Management Model
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../gfx/RDFBones-CollectionManagementModel.pdf
+.. figure:: ../docs/gfx/RDFBones-CollectionManagementModel.pdf
    :alt: Central elements of the collection management model.
    :width: 100.0%
 
@@ -1193,7 +1194,7 @@ understanding is also adopted by RDFBones.
 Registering Skeletal Material For a Collection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../gfx/RDFBones-MaterialRegistration.pdf
+.. figure:: ../docs/gfx/RDFBones-MaterialRegistration.pdf
    :alt: Basic integration of human remains into the collection.
    :width: 100.0%
 
@@ -1219,7 +1220,7 @@ deliberately by researchers to satisfy specific methodological
 requirements. In RDFBones, these are referred to as ‘regions of
 interest’ (ROIs).
 
-.. figure:: ../gfx/RDFBones-AnatomicalROIs-OntologyIntegration.pdf
+.. figure:: ../docs/gfx/RDFBones-AnatomicalROIs-OntologyIntegration.pdf
    :alt: [fig:AnatomicalROIs-Integration]Integration of anatomical
    regions of interest, both in the FMA (classes represented on the
    right) and in the RDFBones core ontology (classes represented on the
@@ -1242,7 +1243,7 @@ region of interest according to the definition given above, the class
 ‘site’ was chosen as an integration point within the RDFBones core
 ontology.
 
-.. figure:: ../gfx/RDFBones-AnatomicalRegionOfInterest.pdf
+.. figure:: ../docs/gfx/RDFBones-AnatomicalRegionOfInterest.pdf
    :alt: [fig:AnatomicalROIs-Types]Types of anatomical regions of
    interest.
    :width: 100.0%
@@ -1315,5 +1316,5 @@ subproperties is set to 1.
    As ‘regional part of’ (fma:regional_part_of) is a transitive
    property, OWL modelling prohibits restrictions on cardinality.
 
-.. |[fig:FMA_subset_immaterial_entities]Classes in the RDFBones subset of the FMA representing immaterial entities compared to classes in the OBI subset. Black lines indicate similar classes that are not necessarily exchangeable but whose definitions overlap considerably. Classes that do not appear in RDFBones are greyed out.| image:: ../gfx/RDFBones-FMA_Subset-CentralClasses-Immaterial Entities.pdf
+.. |[fig:FMA_subset_immaterial_entities]Classes in the RDFBones subset of the FMA representing immaterial entities compared to classes in the OBI subset. Black lines indicate similar classes that are not necessarily exchangeable but whose definitions overlap considerably. Classes that do not appear in RDFBones are greyed out.| image:: ../docs/gfx/RDFBones-FMA_Subset-CentralClasses-Immaterial Entities.pdf
    :width: 100.0%

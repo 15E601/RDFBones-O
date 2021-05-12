@@ -583,12 +583,9 @@ backbone onto which all other classes and properties in RDFBones are
 modelled ().
 
 .. figure:: ../docs/gfx/RDFBones-OBI_Subset-CentralClasses.png
-   :alt: [fig:OBI_subset]Central classes of the OBI subset and general
-   outline of semantic logics.
+   :alt: Central classes of the OBI subset and general outline of semantic logics.
    :width: 100.0%
-
-   [fig:OBI_subset]Central classes of the OBI subset and general outline
-   of semantic logics.
+   :target: ../docs/gfx/RDFBones-OBI_Subset-CentralClasses.png
 
 The logical backbone of the OBI is provided by the BFO. All concepts are
 subclasses of class ‘entitiy’. A general distinction is made between

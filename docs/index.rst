@@ -29,8 +29,13 @@ General Issues
 
 The human skeleton consists of a multitude of skeletal structures that
 provide different kinds of information about human physiology and life
-histories (:raw-latex:`\citealt{Cox2000}`;
-:raw-latex:`\citealt{Katzenberg2008}`). Both the evidence and the
+histories ([Cox2000]_.
+;
+[Katzenberg2008]_.
+.. [Cox2000] Info for Cox publication here
+.. [Katzenberg2008] and Katzenberg here
+
+). Both the evidence and the
 questions it is employed to address are heterogeneous and lead to a wide
 range of methodological approaches, all with their specific limitations
 and error margins. To obtain a thorough understanding, it is often
@@ -577,7 +582,7 @@ provides a suitable framework for osteological work. This provides the
 backbone onto which all other classes and properties in RDFBones are
 modelled ().
 
-.. figure:: ../docs/gfx/RDFBones-OBI_Subset-CentralClasses.pdf
+.. figure:: ../docs/gfx/RDFBones-OBI_Subset-CentralClasses.png
    :alt: [fig:OBI_subset]Central classes of the OBI subset and general
    outline of semantic logics.
    :width: 100.0%

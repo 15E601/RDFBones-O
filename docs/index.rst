@@ -860,19 +860,19 @@ Both classes ‘man-made object’ and ‘biological object’ are subclasses of
 equivalent OBI class is ‘object’ (class bfo:0000030) as the definitions
 show [7]_:
 
+.. table:: comparing bfo-‘object’ and cidoc-‘physical object’
+   :widths: auto
 
-===========================  ==================================
-bfo:0000030, ‘object’        cidoc:E19, ‘physical object’
----------------------------  ----------------------------------
-An object is a maximal       This class comprises items of
-causally unified material    a material nature that are units
-entity.                      for documentation and have
-                             physical boundaries that separate
-                             them completely in an objective
-                             way from other objects. [...]
-===========================  ==================================
-
-
++----------------------------+-----------------------------------------+
+| bfo:0000030, ‘object’      | cidoc:E19, ‘physical object’            |
++============================+=========================================+
+| An object is a maximal     | This class comprises items of a         |
+| causally unified material  | material nature that are units for      |
+| entity.                    | documentation and have physical         |
+|                            | boundaries that separate them           |
+|                            | completely in an objective way from     |
+|                            | other objects. [...]                    |
++----------------------------+-----------------------------------------+
 
 
 
@@ -887,15 +887,18 @@ itself. The most stringent anchor point in the OBI might be the class
 ‘physical thing’ (cidoc:E18):
 
 
-.. table:: Truth table for "not"
+.. table:: comparing bfo-‘material entity’ and cidoc-‘physical thing’
    :widths: auto
 
-bfo:0000040, ‘material entity’                                                                                                                   cidoc:E18, ‘physical thing’
-
-
-
-An independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time. This class comprises all persistent physical items with a relatively stable form, man-made or natural. [...]
-
+   +---------------------------------+-------------------------------------+
+   | bfo:0000040, ‘material entity’  | cidoc:E18, ‘physical thing’         |
+   +=================================+=====================================+
+   | An independent continuant that  | This class comprises all persistent |
+   | is spatially extended whose     | physical items with a relatively    |
+   | identity is independent of that | stable form, man-made or            |
+   | of other entities and can be    | natural. [...]                      |
+   | maintained through time.        |                                     |
+   +---------------------------------+-------------------------------------+
 
 There is no equivalent to the CIDOC CRM class ‘actor’ (cidoc:E39) in the
 OBI where investigatior, specimen collectors or contact persons are all

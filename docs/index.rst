@@ -13,11 +13,12 @@ Documentation of RDFBones and AnthroGraph
    :maxdepth: 2
    :hidden:
    :caption: Introduction
+   :citation_reference
 
    /intro/section 1
    /intro/section 2
    /intro/section 2
-   
+
 
 Osteological Research in Biological Anthropology
 ================================================
@@ -31,8 +32,11 @@ The human skeleton consists of a multitude of skeletal structures that
 provide different kinds of information about human physiology and life
 histories ([Cox2000]_.
 ;
+
 [Katzenberg2008]_.
+
 .. [Cox2000] Info for Cox publication here
+
 .. [Katzenberg2008] and Katzenberg here
 
 ). Both the evidence and the
@@ -856,14 +860,21 @@ Both classes ‘man-made object’ and ‘biological object’ are subclasses of
 equivalent OBI class is ‘object’ (class bfo:0000030) as the definitions
 show [7]_:
 
-========================================================
-=========================================================================================================================================================================================
-bfo:0000030, ‘object’                                    cidoc:E19, ‘physical object’
-========================================================
-=========================================================================================================================================================================================
-An object is a maximal causally unified material entity. This class comprises items of a material nature that are units for documentation and have physical boundaries that separate them completely in an objective way from other objects. [...]
-========================================================
-=========================================================================================================================================================================================
+
+===========================  ==================================
+bfo:0000030, ‘object’        cidoc:E19, ‘physical object’
+---------------------------  ----------------------------------
+An object is a maximal       This class comprises items of
+causally unified material    a material nature that are units
+entity.                      for documentation and have
+                             physical boundaries that separate
+                             them completely in an objective
+                             way from other objects. [...]
+===========================  ==================================
+
+
+
+
 
 As a consequence, the classes ‘man-made object’ and ‘biological object’
 can be modelled as subclasses of class ‘object’ (bfo:0000030).
@@ -875,14 +886,16 @@ itself. The most stringent anchor point in the OBI might be the class
 ‘material entity’ (bfo:0000040), an equivalent to the CIDOC CRM class
 ‘physical thing’ (cidoc:E18):
 
-================================================================================================================================================
-============================================================================================================
+
+.. table:: Truth table for "not"
+   :widths: auto
+
 bfo:0000040, ‘material entity’                                                                                                                   cidoc:E18, ‘physical thing’
-================================================================================================================================================
-============================================================================================================
+
+
+
 An independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time. This class comprises all persistent physical items with a relatively stable form, man-made or natural. [...]
-================================================================================================================================================
-============================================================================================================
+
 
 There is no equivalent to the CIDOC CRM class ‘actor’ (cidoc:E39) in the
 OBI where investigatior, specimen collectors or contact persons are all

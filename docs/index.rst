@@ -13,7 +13,6 @@ Documentation of RDFBones and AnthroGraph
    :maxdepth: 2
    :hidden:
    :caption: Introduction
-   :citation_reference
 
    /intro/section 1
    /intro/section 2
@@ -30,16 +29,7 @@ General Issues
 
 The human skeleton consists of a multitude of skeletal structures that
 provide different kinds of information about human physiology and life
-histories ([Cox2000]_.
-;
-
-[Katzenberg2008]_.
-
-.. [Cox2000] Info for Cox publication here
-
-.. [Katzenberg2008] and Katzenberg here
-
-). Both the evidence and the
+histories ([Cox2000]_, [Katzenberg2008]_ ). Both the evidence and the
 questions it is employed to address are heterogeneous and lead to a wide
 range of methodological approaches, all with their specific limitations
 and error margins. To obtain a thorough understanding, it is often
@@ -1336,3 +1326,7 @@ subproperties is set to 1.
 
 .. |[fig:FMA_subset_immaterial_entities]Classes in the RDFBones subset of the FMA representing immaterial entities compared to classes in the OBI subset. Black lines indicate similar classes that are not necessarily exchangeable but whose definitions overlap considerably. Classes that do not appear in RDFBones are greyed out.| image:: ../docs/gfx/RDFBones-FMA_Subset-CentralClasses-Immaterial Entities.pdf
    :width: 100.0%
+
+.. [Cox2000] Info for Cox 2000 publication here
+
+.. [Katzenberg2008] and for Katzenberg 2008 here

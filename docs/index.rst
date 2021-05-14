@@ -29,7 +29,7 @@ General Issues
 
 The human skeleton consists of a multitude of skeletal structures that
 provide different kinds of information about human physiology and life
-histories ([Cox2000]_, [Katzenberg2008]_ ). Both the evidence and the
+histories ([Cox2000]_, [Katzenberg2008]_). Both the evidence and the
 questions it is employed to address are heterogeneous and lead to a wide
 range of methodological approaches, all with their specific limitations
 and error margins. To obtain a thorough understanding, it is often
@@ -576,13 +576,13 @@ provides a suitable framework for osteological work. This provides the
 backbone onto which all other classes and properties in RDFBones are
 modelled ().
 
-.. figure:: ../docs/gfx/RDFBones-OBI_Subset-CentralClasses.png
+.. figure:: ../docs/gfx/RDFBones-OBI_Subset-CentralClasses.svg
    :alt: Central classes of the OBI subset and general outline of semantic logics.
    :width: 100.0%
-   :target: ../docs/gfx/RDFBones-OBI_Subset-CentralClasses.png
+   :target: ../docs/gfx/RDFBones-OBI_Subset-CentralClasses.svg
 
 The logical backbone of the OBI is provided by the BFO. All concepts are
-subclasses of class ‘entitiy’. A general distinction is made between
+subclasses of class ‘entity’. A general distinction is made between
 ‘continuants’, entities that are relatively permanent, and ‘occurrents’
 with a limited duration. The occurrents relevant for RDFBones are all
 ‘processes’ and most of them are ‘planned processes’, meaning their

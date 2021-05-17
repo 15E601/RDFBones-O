@@ -11,7 +11,7 @@ Documentation of RDFBones and AnthroGraph
 
 * **Overview**:
   :doc:`Introduction to RDFBones </intro/introduction_rdfbones>` |
-  :doc:`Ontologies used in RDFBones </intro/ontologies` |
+  :doc:`Ontologies used in RDFBones </intro/ontologies>` |
   :doc:`The Ontology of biomedical Investigations </ontologies/obi_general>` |
   :doc:`obi modelling of investigations </ontologies/obi_investigations>` |
   :doc:`obi modelling of unique identifiers </ontologies/obi_identifiers>` |
@@ -24,6 +24,7 @@ Documentation of RDFBones and AnthroGraph
    :maxdepth: 2
    :hidden:
    :caption: Topics
+   :numbered:
 
    /intro/introduction_rdfbones
    /intro/ontologies
@@ -49,7 +50,7 @@ Ontologies used in RDFBones
 
 These ontologies are used in RDFBones
 
-:doc:`Ontologies used in RDFBones </intro/ontologies`
+:doc:`Ontologies used in RDFBones </intro/ontologies>`
 
 The OBI
 -------
@@ -65,4 +66,4 @@ Submodules in RDFBones
 
 The following submodules are used in RDFBones
 
-:doc:`Ontologies used in RDFBones </intro/ontologies`
+:doc:`Ontologies used in RDFBones </intro/ontologies>`

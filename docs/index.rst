@@ -4,30 +4,21 @@
    contain the root `toctree` directive.
 
 Documentation of RDFBones and AnthroGraph
-======================================
+==========================================
 
-`RDFBones`_ is the core ontology of AnthroGraph, a software application supporting osteological research in biological anthropology
+`RDFBones`_ is the core ontology of AnthroGraph, a software application supporting osteological research in biological anthropology.
+
+Click on a headline below or on a section title in the navigation sidebar to the left to find the respective information.
+
 .. _RDFBones: https://github.com/RDFBones/RDFBones-O
-
-* **Overview**:
-  :doc:`Introduction to RDFBones </intro/introduction_rdfbones>` |
-  :doc:`Ontologies used in RDFBones </intro/ontologies>` |
-  :doc:`The Ontology of biomedical Investigations </ontologies/obi_general>` |
-  :doc:`obi modelling of investigations </ontologies/obi_investigations>` |
-  :doc:`obi modelling of unique identifiers </ontologies/obi_identifiers>` |
-  :doc:`RDFBones Collection Management </submodules/collection>` |
-  :doc:`RDFBones Anatomical Model </submodules/anatomical_model>` |
-  :doc:`RDFBones Regions of Interest </submodules/regions_of_interest>`
-
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Topics
+   :caption: Sections
    :numbered:
 
-   /intro/introduction_rdfbones
-   /intro/ontologies
+   /submodules/ontologies
    /ontologies/obi_general
    /ontologies/obi_investigations
    /ontologies/obi_identifiers
@@ -43,27 +34,23 @@ what is rdfbones?
 
 getting started with rdfbones
 
-:doc:`Introduction to RDFBones </intro/introduction_rdfbones>`
 
-Ontologies used in RDFBones
-===========================
+:doc:`Ontologies used in RDFBones </submodules/ontologies>`
+============================================================
 
 These ontologies are used in RDFBones
 
-:doc:`Ontologies used in RDFBones </intro/ontologies>`
 
-The OBI
--------
+:doc:`The Ontology of biomedical Investigations </ontologies/obi_general>`
+----------------------------------------------------------------------------
 
 The ontology for biomedical Investigations
 
-:doc:`The Ontology of biomedical Investigations </ontologies/obi_general>`
 
 
 
-Submodules in RDFBones
-=======================
-
-The following submodules are used in RDFBones
 
 :doc:`Ontologies used in RDFBones </intro/ontologies>`
+========================================================
+
+The following submodules are used in RDFBones

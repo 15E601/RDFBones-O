@@ -8,7 +8,7 @@ Documentation of RDFBones and AnthroGraph
 
 `RDFBones`_ is the core ontology of AnthroGraph, a software application supporting osteological research in biological anthropology.
 
-Click on a headline below or on a section title in the navigation sidebar to the left to find the respective information.
+**Click on a headline below or a section title in the navigation sidebar to find the respective information.**
 
 .. _RDFBones: https://github.com/RDFBones/RDFBones-O
 
@@ -30,27 +30,31 @@ Click on a headline below or on a section title in the navigation sidebar to the
 Introduction RDFBones
 ======================
 
-what is rdfbones?
+RDFBones is a digital standard for research data from osteological analyses in Biological Anthropology [Engel2019]_. It is designed to deal with the high diversity of contents and methods in this field and to pool information from disparate existing databases.
 
-getting started with rdfbones
+**A basic guide to using RDFBones is in development. You will find the link here.**
 
 
-:doc:`Ontologies used in RDFBones </submodules/ontologies>`
+:doc:`Ontologies on which RDFBones is based </submodules/ontologies>`
 ============================================================
 
-These ontologies are used in RDFBones
+RDFBones is mostly composed of elements borrowed from other ontologies. In order to maintain compatibility with these, RDFBones adheres to their logics as much as possible. This introduction refers to RDFBones versions 0.2 and later.
 
 
 :doc:`The Ontology of biomedical Investigations </ontologies/obi_general>`
 ----------------------------------------------------------------------------
 
-The ontology for biomedical Investigations
+The Ontology for Biomedical Investigations (OBI) models biological research. The OBI offers standards for the representation of samples, assays, and data analysis methods used in biomedical investigations.
+
+The :doc:` OBI subpage </ontologies/obi_general>` covers the aspects that are particularly relevant for RDFBones, those being the modelling of investigations and the modelling of unique identifiers.
 
 
+:doc:`Submodules of RDFBones </submodules/submodules>`
+-----------------------------------------------------
 
+The subpage on :doc:`RDFBones' submodules </submodules/ontologies>` explains the Collection Management Model and
 
+Citations
+=========
 
-:doc:`Ontologies used in RDFBones </intro/ontologies>`
-========================================================
-
-The following submodules are used in RDFBones
+.. [Engel2019] Engel, Felix and Schlager, Stefan, "RDFBones -- making research explicit: an extensible digital standard for research data", Anthropologischer Anzeiger 76, 3 (2019), pp. 245--257.

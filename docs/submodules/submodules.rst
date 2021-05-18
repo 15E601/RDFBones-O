@@ -1,7 +1,3 @@
-Ontologies used in RDFBones
-=============================
-Below you will find subsections elaborating on the different submodules of RDFBones.
-
 .. toctree::
    :maxdepth: 2
    :hidden:
@@ -13,6 +9,11 @@ Below you will find subsections elaborating on the different submodules of RDFBo
    /submodules/regions_of_interest
 
    Return to Index <index>
+
+
+Submodules of RDFBones
+=============================
+Below you will find subsections elaborating on the different submodules of RDFBones.
 
 
 :doc:`RDFBones Collection Management </submodules/collection>`

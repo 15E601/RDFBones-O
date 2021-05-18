@@ -20,11 +20,8 @@ Documentation of RDFBones and AnthroGraph
 
    /submodules/ontologies
    /ontologies/obi_general
-   /ontologies/obi_investigations
-   /ontologies/obi_identifiers
-   /submodules/collection
-   /submodules/anatomical_model
-   /submodules/regions_of_interest
+   /submodules/submodules
+   Return to Index <index>
 
 
 Introduction RDFBones

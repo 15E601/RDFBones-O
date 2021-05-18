@@ -1,14 +1,3 @@
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Sections
-   :numbered:
-
-   /ontologies/obi_investigations
-   /ontologies/obi_identifiers
-   Return to Index <index>
-
-
 About OBI
 ==========
 

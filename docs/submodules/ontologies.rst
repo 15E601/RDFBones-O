@@ -1,22 +1,33 @@
-these are the ontologies used in rdfbones. interesting!
+Ontologies used in RDFBones
+=============================
+Below you will find subsections elaborating on the different submodules of RDFBones.
 
-Collection Management
-----------------------
-.. subpage for collection management module
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Subsections
+   :numbered:
+
+   /submodules/collection
+   /submodules/anatomical_model
+   /submodules/regions_of_interest
+
+   Return to Index <index>
+
+
+:doc:`RDFBones Collection Management </submodules/collection>`
+================================================================
+
 subpage collection management
 
-:doc:`RDFBones collection </submodules/collection>`
-
-Anatomical Model
------------------
-.. subpage for anatomical model
-subpage anatomical model
 
 :doc:`RDFBones collection </submodules/anatomical_model>`
+============================================================
 
-Anatomical Regions of Interest
--------------------------------
-.. subpage for anatomical regions of interest
-subpage regions
+subpage anatomical model
+
 
 :doc:`RDFBones Regions of Interest </submodules/regions_of_interest>`
+========================================================================
+
+subpage regions

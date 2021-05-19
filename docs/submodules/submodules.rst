@@ -1,16 +1,3 @@
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Subsections
-   :numbered:
-
-   /submodules/collection
-   /submodules/anatomical_model
-   /submodules/regions_of_interest
-
-   Return to Index <index>
-
-
 Submodules of RDFBones
 =============================
 Below you will find subsections elaborating on the different submodules of RDFBones.

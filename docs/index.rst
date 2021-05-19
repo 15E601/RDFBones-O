@@ -14,14 +14,9 @@ Documentation of RDFBones and AnthroGraph
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption: Sections
    :numbered:
 
-   /submodules/ontologies
-   /ontologies/obi_general
-   /submodules/submodules
-   Return to Index <index>
 
 
 Introduction RDFBones

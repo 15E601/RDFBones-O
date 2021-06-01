@@ -1,8 +1,10 @@
 .. toctree::
-ontologies/obi/obi_general
-ontologies/cidoc/cidoc_crm
-ontologies/fma
-ontologies/submodules/submodules
+  :hidden:
+
+  ontologies/obi/obi_general
+  ontologies/cidoc/cidoc_crm
+  ontologies/fma
+  ontologies/submodules/submodules
 
 
 Ontologies on which RDFBones is based

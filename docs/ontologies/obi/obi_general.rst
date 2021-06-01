@@ -1,6 +1,7 @@
 .. toctree::
-ontologies/obi_investigations
-ontologies/obi_identifiers
+
+  ontologies/obi_investigations
+  ontologies/obi_identifiers
 
 About OBI
 ==========

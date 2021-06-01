@@ -1,7 +1,3 @@
-.. toctree::
-ontologies/submodules/collection
-ontologies/submodules/anatomical_model
-
 Submodules of RDFBones
 ========================
 

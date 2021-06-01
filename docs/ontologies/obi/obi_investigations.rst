@@ -1,5 +1,3 @@
-.. toctree::
-
 OBI modelling of Investigations
 ================================
 

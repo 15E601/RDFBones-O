@@ -1,14 +1,3 @@
-.. toctree::
-  :hidden:
-  :maxdepth: 2
-  :caption: Test
-
-  ontologies/obi/obi_general
-  ontologies/cidoc/cidoc_crm
-  ontologies/fma
-  ontologies/submodules/submodules
-
-
 Ontologies on which RDFBones is based
 ======================================
 

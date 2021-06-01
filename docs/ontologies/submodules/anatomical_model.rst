@@ -1,5 +1,4 @@
-.. toctree::
-ontologies/submodules/regions_of_interest
+
 
 The Anatomical Model
 ======================

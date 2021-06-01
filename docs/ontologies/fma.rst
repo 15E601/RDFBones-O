@@ -1,5 +1,3 @@
-.. toctree::
-
 The Foundational Model of Anatomy
 ==================================
 

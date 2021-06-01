@@ -21,6 +21,50 @@ Documentation of RDFBones and AnthroGraph
    manual/manual_mainpage
    ontologies/ontologies
 
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: Test
+
+   ontologies/obi/obi_general
+   ontologies/cidoc/cidoc_crm
+   ontologies/fma
+   ontologies/submodules/submodules
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Sections
+  :numbered:
+  :hidden:
+
+   ontologies/submodules/collection
+   ontologies/submodules/anatomical_model
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Sections
+  :numbered:
+  :hidden:
+
+   ontologies/submodules/regions_of_interest
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: Testing
+
+   ontologies/obi/obi_investigations
+   ontologies/obi/obi_identifiers
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Sections
+  :numbered:
+  :hidden:
+  
+   ontologies/cidoc/cidoc_rdfbones
+   ontologies/cidoc/cidoc_extensions
+
 
 :doc:`RDFBones User's Manual </manual/manual_mainpage>`
 =========================================================

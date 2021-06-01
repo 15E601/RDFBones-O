@@ -1,7 +1,3 @@
-.. toctree::
-ontologies/cidoc/cidoc_rdfbones
-ontologies/cidoc/cidoc_extensions
-
 CIDOC CRM
 ==========
 

@@ -13,6 +13,7 @@ Documentation of RDFBones and AnthroGraph
 .. _RDFBones: https://github.com/RDFBones/RDFBones-O
 
 .. toctree::
+   :maxdepth: 3
    :caption: Sections
    :numbered:
 

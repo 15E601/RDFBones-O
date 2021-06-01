@@ -16,6 +16,7 @@ Documentation of RDFBones and AnthroGraph
    :maxdepth: 3
    :caption: Sections
    :numbered:
+   :hidden:
 
    manual/manual_mainpage
    ontologies/ontologies

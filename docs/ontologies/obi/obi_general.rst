@@ -1,4 +1,7 @@
 .. toctree::
+  :hidden:
+  :maxdepth: 2
+  :caption: Testing
 
   ontologies/obi/obi_investigations
   ontologies/obi/obi_identifiers

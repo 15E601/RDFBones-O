@@ -1,5 +1,7 @@
 .. toctree::
   :hidden:
+  :maxdepth: 2
+  :caption: Test
 
   ontologies/obi/obi_general
   ontologies/cidoc/cidoc_crm

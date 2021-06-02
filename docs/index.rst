@@ -15,7 +15,6 @@ Documentation of RDFBones and AnthroGraph
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :titlesonly:
 
    manual/manual_mainpage
    ontologies/ontologies

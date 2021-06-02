@@ -13,7 +13,7 @@ Documentation of RDFBones and AnthroGraph
 .. _RDFBones: https://github.com/RDFBones/RDFBones-O
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
 
    manual/manual_mainpage
@@ -49,6 +49,6 @@ RDFBones is mostly composed of elements borrowed from other ontologies. :doc:`Th
 
 
 Citations
-=========
+----------
 
 .. [Engel2019] Engel, Felix and Schlager, Stefan, "RDFBones -- making research explicit: an extensible digital standard for research data", Anthropologischer Anzeiger 76, 3 (2019), pp. 245--257.

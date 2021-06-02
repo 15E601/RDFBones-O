@@ -7,7 +7,7 @@ Below you will find subsections elaborating on the different submodules of RDFBo
 :doc:`RDFBones Collection Management </ontologies/submodules/collection>`
 ---------------------------------------------------------------------------
 
-Collection management is a vital component of anthropological research, as specimens are often incorporated into studies long after their initial acquisition. The collection management model of RDFBones is explained on :doc:` this page </submodules/collection>`.
+Collection management is a vital component of anthropological research, as specimens are often incorporated into studies long after their initial acquisition. The collection management model of RDFBones is explained on :doc:` this page </ontologies/submodules/collection>`.
 
 
 :doc:`RDFBones collection </ontologies/submodules/anatomical_model>`

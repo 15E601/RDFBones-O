@@ -6,4 +6,4 @@ All human anatomy is modelled by :doc:`the FMA </ontologies/fma>`. RDFBones adds
 :doc:`Anatomical Regions of Interest </ontologies/submodules/regions_of_interest>`
 ------------------------------------------------------------------------------------
 
-"Regions of Interest" describes a specific concept in osteology, which is explained on :doc:`this page <ontologies/submodules/regions_of_interest>`.
+"Regions of Interest" describes a specific concept in osteology, which is explained on :doc:`this page </ontologies/submodules/regions_of_interest>`.

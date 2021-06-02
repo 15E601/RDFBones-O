@@ -16,7 +16,7 @@ CIDOC CRM lends itself well for scientific investigation in archaeological scien
 :doc:`Extensions have been proposed </ontologies/cidoc/cidoc_extensions>` for CIDOC CRM, which have found use in RDFBones.
 
 Citations
-==========
+----------
 
 .. [1] http://cidoc.mini.icom.museum/organisation/who-we-are/; last accessed 5 May 2021
 

@@ -34,7 +34,7 @@ Dependent continuants are further classified into two groups, depending whether 
 :doc:`This subpage </ontologies/obi/obi_identifiers>` explains how the OBI handles unique identifiers.
 
 Citations
-==========
+----------
 
 .. _the current group: http://obi-ontology.org/
 

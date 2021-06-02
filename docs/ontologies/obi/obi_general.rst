@@ -23,13 +23,13 @@ Dependent continuants are further classified into two groups, depending whether 
 
 
 :doc:`OBI modelling of Investigations </ontologies/obi/obi_investigations>`
-=========================================================================
+-----------------------------------------------------------------------------
 
 :doc:`This subpage </ontologies/obi/obi_investigations>` explains the concept of study design documentation in the OBI.
 
 
 :doc:`OBI Modelling of Unique Identifiers </ontologies/obi/obi_identifiers>`
-==========================================================================
+------------------------------------------------------------------------------
 
 :doc:`This subpage </ontologies/obi/obi_identifiers>` explains how the OBI handles unique identifiers.
 

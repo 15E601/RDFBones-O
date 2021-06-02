@@ -14,8 +14,8 @@ Documentation of RDFBones and AnthroGraph
 
 .. toctree::
    :maxdepth: 2
-   :numbered:
    :hidden:
+   :titlesonly:
 
    manual/manual_mainpage
    ontologies/ontologies
@@ -38,13 +38,13 @@ Documentation of RDFBones and AnthroGraph
 
 
 :doc:`RDFBones User's Manual </manual/manual_mainpage>`
-=========================================================
+--------------------------------------------------------
 
 For a guide on how to use RDFBones, visit the :doc:`user's manual </manual/manual_mainpage>`.
 
 
 :doc:`Ontologies on which RDFBones is based </ontologies/ontologies>`
-======================================================================
+----------------------------------------------------------------------
 
 RDFBones is mostly composed of elements borrowed from other ontologies. :doc:`This introduction </ontologies/ontologies>` lists the ontologies and submodules found in RDFBones and describes the functions they serve.
 
